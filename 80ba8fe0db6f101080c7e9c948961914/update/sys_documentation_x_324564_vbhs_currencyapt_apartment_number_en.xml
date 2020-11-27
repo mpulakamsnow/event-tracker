@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="apartment_number" label="Apartment Number" language="en" table="x_324564_vbhs_currencyapt">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>apartment_number</element>
+            <help/>
+            <hint/>
+            <label>Apartment Number</label>
+            <language>en</language>
+            <name>x_324564_vbhs_currencyapt</name>
+            <plural>Apartment Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-27 11:27:59</sys_created_on>
+            <sys_id>a9852a68dbf0601080c7e9c948961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Apartment Number</sys_name>
+            <sys_package display_value="VBHS" source="x_324564_vbhs">80ba8fe0db6f101080c7e9c948961914</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="VBHS">80ba8fe0db6f101080c7e9c948961914</sys_scope>
+            <sys_update_name>sys_documentation_x_324564_vbhs_currencyapt_apartment_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-27 11:27:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

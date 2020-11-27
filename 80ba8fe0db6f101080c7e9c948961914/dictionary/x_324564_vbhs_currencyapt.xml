@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="CurrencyApt" max_length="40" name="x_324564_vbhs_currencyapt" type="collection">
+        <element default="101" display="true" label="Apartment Number" max_length="20" name="apartment_number" type="integer"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
